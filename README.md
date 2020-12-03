@@ -25,7 +25,7 @@ For more details, please refer to the assignment description.
 ## Final Submission due on 13.01.2021, 23:59
 The submission is done with this repository. Make to push your code until the deadline.
 
-The repository has to include the implementations of the picked approaches andthe filled out report in this README.
+The repository has to include the implementations of the picked approaches and the filled out report in this README.
 
 * Sending us an email with the code is not necessary.
 * Update the *environment.yml* file if you need additional libraries, otherwise the code is not executeable.
@@ -60,7 +60,7 @@ Alternatively, you can also work with [binder](https://mybinder.org/).
 ### Model & Data
 
 * Which model are you going to explain? What does it do? On which data is it used?
-* Where did you get the model and the data used?
+* From where did you get the model and the data used?
 * Describe the model.
 
 ### Explainability Approaches
