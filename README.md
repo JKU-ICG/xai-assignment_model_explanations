@@ -35,8 +35,8 @@ The repository has to include the implementations of the picked approaches and t
 
 Checkout this repo and change into the folder:
 ```
-git clone https://github.com/jku-icg-classroom/xai_model_explanation_2020-<GROUP_NAME>.git
-cd xai_model_explanation_2020-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/xai_model_explanation_2021-<GROUP_NAME>.git
+cd xai_model_explanation_2021-<GROUP_NAME>
 ```
 
 Load the conda environment from the shared `environment.yml` file:
