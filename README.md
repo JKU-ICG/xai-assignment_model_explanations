@@ -71,3 +71,6 @@ Find explainability approaches for the selected models. Repeat the section below
 * Breifly summarize the approach. 
 * Categorize this explainability approach according to the criteria by Hohman et al.
 * Interpret the results here. How does it help to explain your model?
+
+### Summary of Approaches
+Write a short summary that reflects on all approaches and which one is beneficial.
