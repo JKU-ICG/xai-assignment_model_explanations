@@ -2,7 +2,7 @@
 # Explainable AI Assignment 2 - Model Explanations
 In this assignment, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
 
-## General Information Submission due on 02.12.2020, 23:59
+## General Information Submission due on 02.12.2021, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
