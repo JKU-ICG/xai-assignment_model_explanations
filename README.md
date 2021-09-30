@@ -2,7 +2,7 @@
 # Explainable AI Assignment 2 - Model Explanations
 In this assignment, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
 
-## General Information Submission due on 17.12.2020, 23:59
+## General Information Submission due on 02.12.2020, 23:59
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
@@ -18,11 +18,11 @@ For the intermediate submission, please enter the group and dataset information.
 | [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
 
 
-## Intermediate Presentation on the 17.12.2020 (optional)
+## Intermediate Presentation on the 09.12.2021 (optional)
 The presentations will be held during the Q&A sessions on that day.
 For more details, please refer to the assignment description.
 
-## Final Submission due on 13.01.2021, 23:59
+## Final Submission due on 15.12.2021, 23:59
 The submission is done with this repository. Make to push your code until the deadline.
 
 The repository has to include the implementations of the picked approaches and the filled out report in this README.
