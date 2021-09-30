@@ -10,12 +10,12 @@ For the intermediate submission, please enter the group and dataset information.
 
 **Group Members**
 
-| Student ID    | First Name  | Last Name      | Workload [%]  | E-Mail |
-| --------------|-------------|----------------|---------------|--------|
-| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]         |[TODO]  |
+| Student ID    | First Name  | Last Name      | E-Mail | Workload [%]  |
+| --------------|-------------|----------------|--------|---------------|
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
 
 
 ## Intermediate Presentation on the 09.12.2021 (optional)
