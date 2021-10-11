@@ -73,4 +73,4 @@ Find explainability approaches for the selected models. Repeat the section below
 * Interpret the results here. How does it help to explain your model?
 
 ### Summary of Approaches
-Write a short summary that reflects on all approaches and which one is beneficial.
+Write a brief summary reflecting on all approaches.
