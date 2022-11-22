@@ -2,27 +2,23 @@
 # Explainable AI Assignment 2 - Model Explanations
 In this assignment, you are challenged to explain a model. For this, you will research exisiting approaches and apply them to your model and interpret the results.
 
-## General Information Submission due on 22.11.2022, 23:59
+## General Information Submission
 
 For the intermediate submission, please enter the group and dataset information. Coding is not yet necessary.
 
-**Team Name:** [TODO]
+**Team Name:** TODO
 
 **Group Members**
 
 | Student ID    | First Name  | Last Name      | E-Mail | Workload [%]  |
 | --------------|-------------|----------------|--------|---------------|
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
-| [TODO]        | [TODO]      | [TODO]         |[TODO]  |[TODO]         |
+| TODO        | TODO      | TODO         |TODO  |TODO         |
+| TODO        | TODO      | TODO         |TODO  |TODO         |
+| TODO        | TODO      | TODO         |TODO  |TODO         |
+| TODO        | TODO      | TODO         |TODO  |TODO         |
 
 
-## Intermediate Presentation on the 24.11.2021 (optional)
-The presentations will be held during the Q&A sessions on that day.
-For more details, please refer to the assignment description.
-
-## Final Submission due on 14.12.2022, 23:59
+## Final Submission
 The submission is done with this repository. Make to push your code until the deadline.
 
 The repository has to include the implementations of the picked approaches and the filled out report in this README.
