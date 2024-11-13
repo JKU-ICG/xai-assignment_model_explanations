@@ -72,3 +72,4 @@ Find explainability approaches for the selected models. Repeat the section below
 Write a brief summary reflecting on all approaches.
 
 ### Presentation Video Link
+Provide the link to your recorded video of the presentation. This could, for instance, be a Google Drive link. Make sure it is actually sharable and test it, e.g., by trying to access it from an incognito browser tab.
