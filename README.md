@@ -31,8 +31,8 @@ The repository has to include the implementations of the picked approaches and t
 
 Checkout this repo and change into the folder:
 ```
-git clone https://github.com/jku-icg-classroom/xai_model_explanation_2022-<GROUP_NAME>.git
-cd xai_model_explanation_2022-<GROUP_NAME>
+git clone https://github.com/jku-icg-classroom/xai_model_explanation_2024-<GROUP_NAME>.git
+cd xai_model_explanation_2024-<GROUP_NAME>
 ```
 
 Load the conda environment from the shared `environment.yml` file:
@@ -64,9 +64,11 @@ Find explainability approaches for the selected models. Repeat the section below
 
 #### Approach *i*
 
-* Breifly summarize the approach. 
+* Briefly summarize the approach. 
 * Categorize this explainability approach according to the criteria by Hohman et al.
 * Interpret the results here. How does it help to explain your model?
 
 ### Summary of Approaches
 Write a brief summary reflecting on all approaches.
+
+### Presentation Video Link
