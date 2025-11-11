@@ -1,0 +1,12 @@
+{
+    "submission_type": "a02",
+    "team_name": "Team Name",
+    "students": [
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        // ...add more students as needed and remove this comment
+    ]
+} 

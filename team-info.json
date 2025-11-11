@@ -1,0 +1,13 @@
+{
+    "team_name": "Team Name",
+    "students": [
+        {
+            "student_id": "k00000000",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+        // ...add more students as needed and remove this comment
+    ]
+}
